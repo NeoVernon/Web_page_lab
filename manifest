@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+index.html
+admin.html
+educational.html
+offline.html
+
+css/bootstrap.css
+css/bootstrap.min.css
+js/bootstrap.min.js
+js/bootstrap.js
+
+NETWORK:
+admin.html
+
+FALLBACK:
+offline.html
